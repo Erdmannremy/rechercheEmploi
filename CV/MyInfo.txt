@@ -3,4 +3,4 @@ Prénom:
 Num Tel:
 Adresse Mail:
 
-hobies:
+hobbies:
